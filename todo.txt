@@ -1,0 +1,13 @@
+### ACM-W Web Page
+
+- what is ACM-W?
+- what do we do?
+- when do we meet?
+- how can i join the mailing list?
+- who are we? (emilee / jasmine / tasnim / borja)
+
+### Links
+http://html5up.net/directive
+http://html5up.net/photon
+http://ironsummitmedia.github.io/startbootstrap-agency/
+http://ironsummitmedia.github.io/startbootstrap-landing-page/
